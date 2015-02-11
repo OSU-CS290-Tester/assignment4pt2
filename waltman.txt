@@ -1,0 +1,5 @@
+Work Log 
+
+Start: Tue, Feb 10, 11:30:00 -0500
+End: Wed, Feb 11, 01:15:00 -0500
+Tasks: I made a concerted effort to try and get everything done in one day, since I want this material to be familiar to me. After initially overcoming some difficulty with the syntax of using the SQLi format, I found that the project flowed easily and intuitively.
